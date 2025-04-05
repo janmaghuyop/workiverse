@@ -1,0 +1,5 @@
+2025-02-22T10:30:45.123456Z stdout P Container started
+2025-02-22T10:30:46.123456Z stderr F Container failed to start
+2025-02-22T10:30:47.123456Z stdout P Container running
+2025-02-22T10:30:48.123456Z stderr F Error encountered during start
+2025-02-22T10:30:49.123456Z stdout P Container stopped
